@@ -10,12 +10,6 @@
 ### RRSS
                                     
 <p align="left">
-    <a href="https://discord.com/users/fernandosevilla" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-    </a>
-    <a href="https://www.github.com/fernandosevilla" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </a>
     <a href="http://www.instagram.com/fernandosevilla__" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </a>
@@ -24,9 +18,6 @@
     </a>
     <a href="https://www.x.com/fersevilla_" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </a>
-    <a href="https://www.threads.net/@fernandosevilla__" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
     </a>
 </p>
 
